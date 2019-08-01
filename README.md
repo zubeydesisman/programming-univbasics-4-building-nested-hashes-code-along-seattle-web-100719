@@ -18,7 +18,7 @@ need to get ready for. We will definitely be required to answer some questions
 on the cast of characters and their attributes and relationships to one another.
 Let's map out that information:
 
-![](http://learn-co-curriculum.s3.amazonaws.com/nested-hashes-romeo-juliet.png)
+![Montague/Capulet Family Tree](https://curriculum-content.s3.amazonaws.com/programming-univbasics-4/nested-hashes/Image_7_NestedHash.png)
 
 What we have here is a nested data structure. There are different levels or
 tiers of information. On the top tier, we have family names. Beneath that we
@@ -358,6 +358,8 @@ puts epic_tragedy
    }
 }
 ```
+
+![Montague/Capulet Family Tree w/ Michael Jordan](https://curriculum-content.s3.amazonaws.com/programming-univbasics-4/nested-hashes/Image_8_NestedHash.png)
 
 ### Bonus Code Along Challenge
 
