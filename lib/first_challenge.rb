@@ -1,4 +1,4 @@
 epic_tragedy = {
-  montaque: {},
+  montague: {},
   capulet:  {}
 }
